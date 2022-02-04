@@ -1,0 +1,27 @@
+.heading{
+    color: white;
+    font-weight: bold;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    background-color: grey;
+    padding: 50px;
+}
+
+button{
+    width: 15%;
+    margin: 20px;
+    font-size: 25px;
+    }
+
+.main_div{
+        background-color:palegreen;
+        padding: 100px;
+        font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    }
+.copyright_footer{
+text-align: center;
+font-family: 'Syne Tactile', cursive;
+font-size: 25px;
+margin: 40px;
+font-weight: bold;
+    }
